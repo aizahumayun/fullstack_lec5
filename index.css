@@ -1,1 +1,8 @@
 @import "tailwindcss";
+/*div .bg-blue-900{
+    background-color: brown;
+}*/
+
+div>div:nth-child(2){
+    background-color: rgb(24, 129, 221);
+}
